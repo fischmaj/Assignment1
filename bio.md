@@ -6,5 +6,7 @@
 3. Flying Airplanes
 4. Computers and programming
 5. Magic/Sleight of Hand
+6. Playing Poker
+
 
 ##Programming Background
