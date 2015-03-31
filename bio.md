@@ -10,3 +10,5 @@
 
 
 ##Programming Background
+Classes taken thus far: CS161, CS162, CS225, CS275, CS271, CS261
+Languages I've used: Java, C++/C, MASM
