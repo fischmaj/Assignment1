@@ -8,3 +8,4 @@
 5. Magic/Sleight of Hand
 
 ##Programming Background
+Classes taken thus far: CS161, CS162, CS225, CS275, CS271, CS261
